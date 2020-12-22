@@ -1,6 +1,8 @@
 # todo_list
 
-A new Flutter project.
+This is TodoList App with simple and eligant UI.
+
+This App has checkBoxes that enable you to mark the tasks you completed.
 
 ## First Flutter project
 
